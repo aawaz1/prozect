@@ -38,7 +38,7 @@ function Team() {
   };
   return (
     <div
-      className="team-area-wrapper bg-img sp-y"
+      className="team-area-wrapper team-area-wrap bg-img sp-y"
     // style={{ backgroundImage: `url(${teamBg})` }}
     >
       <div className="container-fluid">

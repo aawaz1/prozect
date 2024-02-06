@@ -9,23 +9,23 @@
 
   @media #{$md-device} {
     padding: 90px 0 135px;
-  }
+  };
 
   @media #{$sm-device} {
     padding: 60px 0 135px;
-  }
+  };
 
   &:before {
     @include overlay($brandColor, 0.9);
     z-index: -1;
-  }
-}
+  };
+};
 
 .service-content-area {
   margin-top: -170px;
   position: relative;
   z-index: 1;
-}
+};
 
 
 .service-item {
@@ -45,9 +45,9 @@
 
       @media #{$sm-device} {
         font-size: 16px;
-      }
-    }
-  }
+      };
+    };
+  };
 
   .service-content {
     background-color: rgba($brandColor, 0.95);
@@ -66,7 +66,7 @@
 
     @media #{$sm-device} {
       padding: 15px;
-    }
+    };
 
     h5 {
       color: $white;
@@ -75,21 +75,21 @@
 
       a{
         color: $white;
-      }
-    }
-  }
+      };
+    };
+  };
 
   &:hover {
     box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.26);
 
     .service-content{
       left: 0;
-    }
-  }
-}
+    };
+  };
+};
 
 .non-opacity{
   &:after,&:before{
     display: none;
-  }
-}
+  };
+};

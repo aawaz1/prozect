@@ -33,16 +33,15 @@
     "title": "News",
     "link": "/blog-list-right-sidebar",
     "megaMenu": false,
-    "subMenu": [
-      {
-        "title": "Blogs",
-        "link": "/blog-list-right-sidebar"
-      }
-      
-    ]
+    "subMenu" : false
+  },{
+    "id": 6,
+    "title": "Blog",
+    "link": "/blog-list-right-sidebar"
+   
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Contact",
     "link": "/contact"
   }
