@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "megaMenu": false,
+    "subMenu": false
+   
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Practice Areas",
+    "link": "/PracticeArea-one",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 4,
+    "title": "Attorneys",
+    "link": "/Attorneys",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "News",
+    "link": "/blog-list-right-sidebar",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "title": "Blogs",
+        "link": "/blog-list-right-sidebar"
+      }
+      
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

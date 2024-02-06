@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Real Estate Laws",
+      "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+      "imgSrc": "feature/01.png",
+      "link":"/service/real-estate-laws?id=1"
+      
+    },
+    {
+      "id": 2,
+      "title": "All Criminal Laws",
+      "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+      "imgSrc": "feature/03.png",
+       "link":"/service/all-criminal-laws?id=2"
+    },
+    {
+      "id": 3,
+      "title": "Personal Injury",
+      "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+      "imgSrc": "feature/02.png",
+       "link":"/service/personal-injury?id=3"
+    },
+    
+    {
+        "id": 4,
+        "title": "Health Related Laws",
+        "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+        "imgSrc": "feature/01.png",
+         "link":"/service/health-related-laws?id=5"
+        
+      },
+      {
+        "id": 5,
+        "title": "Domestic Voilence",
+        "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+        "imgSrc": "feature/02.png",
+         "link":"/service/domestic-voilence?id=6"
+      },
+      {
+        "id": 6,
+        "title": "Corporate Issues",
+        "text": "We can provide corporate governance, helping clients manage the responsibilities of running a corporation in financial field.",
+        "imgSrc": "feature/03.png",
+         "link":"/service/corporate-issues?id=4"
+      }
+  ]

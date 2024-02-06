@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "ASK THE LAW",
+    "text": "We welcome you to the “ASK THE LAW” website, where useful and useful legal advice is available for all inquiries, questions and legal advice that the questioner needs.",
+    "bg": "slider/01.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  },
+  {
+    "id": 2,
+    "title": "Law Firm",
+    "text": " a company consisting of a group of lawyers who provide legal advice and services.",
+    "bg": "slider/02.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
+  }
+]
+
+

@@ -1,0 +1,664 @@
+[
+  {
+    "id": 1,
+    "name": "Abdullah Al Mutawa Qatar",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hanadi Al-Jowder, Bahrain",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ms. Amina Al-Halabiyya",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mr. Dr. Khalifa Al Hanani",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },{
+    "id": 5,
+    "name": "Mr. Suad Al-Shamali, Kuwait",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  },{
+    "id": 6,
+    "name": "Mr. Dr. Fares Omran Egypt",
+    "designation": "Senior Attorney",
+    "profilePic": "team/05.jpg",
+    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
+    "phone": "+012354 658 987",
+    "email": "mail@lucyfarnando.com",
+    "website": "www.lucyfarnando.com",
+    "socials": {
+      "facebook": "/",
+      "twitter": "/",
+      "linkedin": "/",
+      "reddit": "/",
+      "pinterest": "/"
+    },
+    "skills": [
+      {
+        "no": 1,
+        "title": "Practice Area",
+        "percentage": 95
+      },
+      {
+        "no": 2,
+        "title": "Happy Customer",
+        "percentage": 89
+      },
+      {
+        "no": 3,
+        "title": "Firm Size",
+        "percentage": 91
+      },
+      {
+        "no": 4,
+        "title": "Success Case",
+        "percentage": 85
+      }
+    ],
+    "experiences": [
+      {
+        "no": 1,
+        "designation": "Estate Planning",
+        "icon": "team/details/date-1.png",
+        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 2,
+        "designation": "Business and Corporate Law",
+        "icon": "team/details/date-2.png",
+        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
+      },
+      {
+        "no": 3,
+        "designation": "Contract Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "designation": "Real Estate Law",
+        "icon": "team/details/date-3.png",
+        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+      }
+    ],
+    "education": [
+      {
+        "no": 1,
+        "institute": "University of Manchester",
+        "degree": "BA, Columbia College; 2001",
+        "duration": "JAN 2013 - MAY 2016",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 2,
+        "institute": "University of Community",
+        "degree": "Master of Law, 2007. UK University",
+        "duration": "JAN 2010 - DEC 2012",
+        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 3,
+        "institute": "University of Science",
+        "degree": "Admitted to the Bar since 2013",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 4,
+        "institute": "University of Green",
+        "degree": "Member of the International Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 5,
+        "institute": "University of Green",
+        "degree": "Member of the London City Bar Association",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      },
+      {
+        "no": 6,
+        "institute": "University of Green",
+        "degree": "Speaker of GAFTA Professional Development Programmes",
+        "duration": "JAN 2007 - Jan 2008",
+        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+      }
+    ]
+  }
+  
+ 
+  
+ 
+]

@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "title": "FREE CASE EVALUATION",
+      "text": "Deserunt mollit animd laborum perspic",
+      "imgSrc": "feature/01.png"
+      
+    },
+    {
+      "id": 2,
+      "title": "FIND A LAWYER",
+      "text": "Deserunt mollit animd laborum perspic",
+      "imgSrc": "feature/02.png",
+      "link":"/Attorneys"
+    },
+    {
+      "id": 3,
+      "title": "CORPORATE LIGITATION",
+      "text": "Deserunt mollit animd laborum perspic",
+      "imgSrc": "feature/03.png"
+    }
+  ]

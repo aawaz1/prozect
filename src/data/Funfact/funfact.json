@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "counterNumber": 264,
+    "counterText": "CASES WE WON"
+  },
+  {
+    "id": 2,
+    "counterNumber": 15,
+    "counterText": "LAWYERS TEAM"
+  },
+  {
+    "id": 3,
+    "counterNumber": 120,
+    "counterText": "CONSULTATIONS"
+  },
+  {
+    "id": 4,
+    "counterNumber": 350,
+    "counterText": "CASES DISMISSED"
+  }
+]
