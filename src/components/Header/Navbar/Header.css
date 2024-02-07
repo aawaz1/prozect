@@ -82,7 +82,7 @@
         background-color: black;
         
         padding: 10px;
-        height: 350px;
+        height: 400px;
         gap: 30px;
         animation: slideDown 1s ease;
         transition: all 1s ease;
@@ -355,7 +355,7 @@
 @media screen and (max-width: 415px) {
 
     .header-area{
-        height: 60vh;
+        height: 6vh;
     }
 
     header{

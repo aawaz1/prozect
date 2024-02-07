@@ -1,43 +1,155 @@
-// /*=======================
+
+
+//====================
 // 13. Team Style CSS
 // =========================*/
-@media screen and (max-width: 765px) {
- 
-  .team-mem-item{
-    border: 2px solid greenyellow;
-   
-    width: 130%;
-    
- 
-    margin-left: -180px;
 
-  }
-  .team-area{
-    border:  2px solid black;
+.team-page-area-wrapper{
+  border: 2px solid blue;
+ 
+
+  .team-mem-item{
+    border: 2px solid black;
+    margin-right: 10%;
+    margin-bottom: 10%;
   }
   .member-info {
     border: 2px solid yellow;
     margin-bottom: 20px;
-    margin-left: 50%;
+    margin-left: 0%;
+    width: 100%;
+   
+  }
+  
+}
+.team-area-wrapper{
+  border: 2px solid green;
+  width: 80%;
+  margin-left: 10%;
+}
+.team-mem-item{
+  border: 2px solid red;
+  width: 100%;
+  margin-left: 170px;
+  margin-bottom: 10px;
+}
+.member-info {
+  border: 2px solid yellow;
+  margin-bottom: 10%;
+  margin-left:02%;
+  width: 90%;
+ 
+}
+
+
+
+
+//  .team-area{
+//     border:  2px solid black;
+//     margin-left: 20%;
+//     width: 20%;
+//   }
+@media only screen and (width : 1024px){
+  .team-page-area-wrapper{
+    border : 2px solid green;
+    width : 80%;
+    // margin-right: %;
+    margin-left: -18%;
+   display: flex;
+   justify-content: center;
+
+    .pagename{
+      margin-left: 40%;
+    }
+
+    .team-mem-item{
+      border: 2px solid yellow;
+      margin-right: 100%;
+      padding-left: 20%;
+    }
+  }
+}
+@media screen and (max-width: 765px) {
+  .team-page-area-wrapper{
+    .member-info {
+      border: 2px solid yellow;
+      margin-bottom: 20px;
+      margin-left: 50%;
+      width: 40%;
+     
+    }
+    .team-area-wrapper{
+      border: 2px solid black;
+      margin-left: 40px;
+      width: 80%;
+     
+    }
+    border: 2px solid green;
+    // margin-left: 20px;
+    padding: 20px 10px 10px 20px;
+
+    .member-pic {
+      border: 2px solid  blue;
+      height: 15vh;
+      margin-left: 50%;
+      img {
+        width: 60%;
+      }
+    }
+
+    .team-mem-item{
+      border: 2px solid greenyellow;
+      width: 130%;
+       margin-left: -160px;
+  
+    }
+
+     .team-area{
+    border:  2px solid black;
+    margin-left: -20%;
+  }
+
+
+  }
+ 
+  .team-mem-item{
+    border: 2px solid greenyellow;
+    width: 130%;
+     margin-left: -180px;
+
+  }
+  .team-area{
+    border:  2px solid black;
+    margin-left: -20%;
+  }
+  .member-info {
+    border: 2px solid yellow;
+    margin-bottom: 20px;
+    margin-left: -55%;
     width: 40%;
    
   }
   .member-pic {
     border: 2px solid  blue;
-    margin-left: 50%;
+    height: 15vh;
+    margin-left: 65%;
     img {
-      width: 20%;
+      width: 60%;
     }
   }
 
   .team-area-wrapper{
     border: 2px solid black;
+    margin-left: 20px;
+    width: 80%;
    
   }
   .member-info {
   
   border: 2px solid red;
-  margin-left: 240px;
+  height: 8vh;
+  margin-left: 65%;
+  margin-bottom: 15%;
 
  
   
@@ -46,10 +158,10 @@
 
  
 
-  .designation {
-    font-weight: 400;
-    color: $brandColor;
-  }
+  // .designation {
+  //   font-weight: 400;
+  //   color: $brandColor;
+  // }
 }
 
   
@@ -57,6 +169,21 @@
  
   }
   @media screen and (min-width: 766px) and (max-width: 820px) {
+    .team-page-area-wrapper{
+    border : 2px solid violet;
+    width:  80%;
+    margin-left: 10%;
+     .member-pic {
+        border: 2px solid  blue;
+    height: 18vh;
+    margin-left: 40%;
+        img {
+          width: 100%;
+        }
+      }
+
+
+    }
  
  
       .team-mem-item{
@@ -77,14 +204,15 @@
         border: 2px solid yellow;
         margin-bottom: 20px;
         margin-left: 50%;
-        width: 50%;
+        width: 60%;
        
       }
       .member-pic {
         border: 2px solid  blue;
-        margin-left: 50%;
+    height: 18vh;
+    margin-left: 40%;
         img {
-          width: 20%;
+          width: 60%;
         }
       }
     
@@ -93,9 +221,10 @@
        
       }
       .member-info {
+        padding-top: 15px;
       
       border: 2px solid red;
-      margin-left: 240px;
+      margin-left: 40%;
     
      
       
@@ -174,293 +303,7 @@
 // }
  
 
-.team-wrapper{
-  display: flex;
-  border: 2px solid;
-}
-
-.team-mem-item {
-  transition: 0.4s;
-  border: 2px solid green;
-  width: 100%;
-  height: 100%;
-  margin-left: -40%;
-
-  .member-info {
-    text-align: center;
-    border: 2px solid red;
-    width: 50%;
-    margin-left: 60%;
-    
-    background-color: $white;
-    padding: 15px 10px;
-
-    h5 {
-      font-weight: 600;
-      font-size: 18px;
-      line-height: 1;
-
-      a {
-        color: $headingColor;
-
-        &:hover {
-          color: $hvrColor;
-        }
-      }
-    }
-
-    .designation {
-      font-weight: 400;
-      color: $brandColor;
-    }
-  }
-
- 
-  .member-pic {
-    border: 2px solid gray;
-    width: 50%;
-    margin-left: 60%;
-    img {
-      width: 100%;
-    }
-  }
-
-  &--2 {
-    position: relative;
-    margin-top: 40px;
-
-    .member-info {
-     
-      background-color: transparent;
-      padding: 0;
-      position: absolute;
-      top: -15px;
-      left: -110px;
-      width: 100%;
-      @include hide;
-      transform: translateY(-20px);
-
-      // @media #{$sm-device} {
-      //   left: -80px;
-      // }
-
-      &:after{
-        background-image: url('../../img/team/team-arrow.png');
-        background-repeat: no-repeat;
-        background-position: center center;
-        content: '';
-        position: absolute;
-        transform: translateY(-10px);
-        transition: 0.4s;
-        transition-duration: 0.8s;
-        top: 100%;
-        right: -15px;
-        height: 40px;
-        width: 100%;
-      }
-    }
-
-    .member-pic {
-      text-align: center;
-      border: 2px solid red;
-
-      img {
-        max-height: 400px;
-        width: auto;
-        margin: auto;
-      }
-    }
-
-    &:hover{
-      .member-info{
-        @include show;
-        transform: none;
-
-        &:after{
-          transform: none;
-        }
-      }
-    }
-  }
-}
-
-.team-area-wrapper {
-  border: 2px solid black;
-  display: flex;
-  flex-wrap: wrap;
-  height: 20%;
-
-  .section-title {
-    @media screen and (min-width: 1500px) {
-      padding-right: 100px;
-    }
-  }
-
-  .team-content-wrap {
-    @media screen and (min-width: 1500px) {
-      padding-left: 45px;
-    }
-
-    .slick-dots {
-      display: flex!important;
-      justify-content: center;
-    }
-
-    .slick-list {
-      margin: 0 -15px;
-      @media #{$sm-device} {
-        margin: 0 -10px;
-      }
-
-      .slick-slide {
-        padding: 0 15px;
-
-        @media #{$sm-device} {
-          padding: 0 10px;
-        }
-      }
-    }
-  }
-}
-
-.team-area{
-  border: 2px solid red;;
-  &-left{
-    background-color: $brandColor;
-    padding: 110px 100px 105px;
-    height: 100%;
-
-    @media #{$xlmax-device} {
-      padding: 90px 25px;
-    }
-
-    @media #{$md-device} {
-      padding: 90px;
-    }
-
-    @media #{$sm-device} {
-      padding: 60px 30px  50px;
-    }
-
-    @media #{$xs-device} {
-      padding: 60px 15px 50px;
-    }
-  }
-
-  &-right{
-    position: relative;
-    padding: 110px 100px 0;
-
-    @media #{$md-device} {
-      padding: 80px 100px 0;
-    }
-
-    @media #{$sm-device} {
-      padding: 50px 30px 0;
-    }
-
-    &--2{
-      &:before{
-        @include overlay($white, 0.85);
-      }
-    }
-  }
-}
-
-
-// Team Page
-.team-page-area-wrapper{
-  .team-mem-item{
-    margin-top: 30px;
-    transition: 0.4s;
-
-    &:hover{
-      transform: translateY(-10px);
-      
-    }
-  }
-}
-
-
-/*=======================
-13. Team Style CSS
-=========================*/
-
-// @media screen and (max-width: 765px) {
-//   .team-mem-item {
-//     border: 2px solid greenyellow;
-//     width: 130%;
-//     margin-left: -180px;
-//   }
-  
-//   .team-area {
-//     border: 2px solid black;
-//   }
-  
-//   .member-info {
-//     border: 2px solid yellow;
-//     margin-bottom: 20px;
-//     margin-left: 50%;
-//     width: 40%;
-//   }
-  
-//   .member-pic {
-//     border: 2px solid blue;
-//     margin-left: 50%;
-//     img {
-//       width: 20%;
-//     }
-//   }
-  
-//   .team-area-wrapper {
-//     border: 2px solid black;
-//   }
-  
-//   .member-info {
-//     border: 2px solid red;
-//     margin-left: 240px;
-//   }
-// }
-
-// @media screen and (min-width: 766px) and (max-width: 820px) {
-//   .team-mem-item {
-//     border: 2px solid greenyellow;
-//     width: 75%;
-//     margin-left: -36px;
-//   }
-  
-//   .team-area {
-//     border: 2px solid black;
-//   }
-  
-//   .member-info {
-//     border: 2px solid yellow;
-//     margin-bottom: 20px;
-//     margin-left: 50%;
-//     width: 50%;
-//   }
-  
-//   .member-pic {
-//     border: 2px solid blue;
-//     margin-left: 50%;
-//     img {
-//       width: 20%;
-//     }
-//   }
-  
-//   .team-area-wrapper {
-//     border: 2px solid black;
-//   }
-  
-//   .member-info {
-//     border: 2px solid red;
-//     margin-left: 240px;
-//   }
-// }
-
-// /* Add more media queries and styles as needed */
-
-// .team-wrapper {
+// .team-wrapper{
 //   display: flex;
 //   border: 2px solid;
 // }
@@ -476,7 +319,8 @@
 //     text-align: center;
 //     border: 2px solid red;
 //     width: 50%;
-//     margin-left: 80%;
+//     margin-left: 60%;
+    
 //     background-color: $white;
 //     padding: 15px 10px;
 
@@ -500,10 +344,11 @@
 //     }
 //   }
 
+ 
 //   .member-pic {
 //     border: 2px solid gray;
 //     width: 50%;
-//     margin-left: 80%;
+//     margin-left: 60%;
 //     img {
 //       width: 100%;
 //     }
@@ -514,6 +359,7 @@
 //     margin-top: 40px;
 
 //     .member-info {
+     
 //       background-color: transparent;
 //       padding: 0;
 //       position: absolute;
@@ -523,7 +369,11 @@
 //       @include hide;
 //       transform: translateY(-20px);
 
-//       &:after {
+//       // @media #{$sm-device} {
+//       //   left: -80px;
+//       // }
+
+//       &:after{
 //         background-image: url('../../img/team/team-arrow.png');
 //         background-repeat: no-repeat;
 //         background-position: center center;
@@ -550,12 +400,12 @@
 //       }
 //     }
 
-//     &:hover {
-//       .member-info {
+//     &:hover{
+//       .member-info{
 //         @include show;
 //         transform: none;
 
-//         &:after {
+//         &:after{
 //           transform: none;
 //         }
 //       }
@@ -581,7 +431,7 @@
 //     }
 
 //     .slick-dots {
-//       display: flex !important;
+//       display: flex!important;
 //       justify-content: center;
 //     }
 
@@ -602,10 +452,9 @@
 //   }
 // }
 
-// .team-area {
-//   border: 2px solid red;
-
-//   &-left {
+// .team-area{
+//   border: 2px solid red;;
+//   &-left{
 //     background-color: $brandColor;
 //     padding: 110px 100px 105px;
 //     height: 100%;
@@ -619,7 +468,7 @@
 //     }
 
 //     @media #{$sm-device} {
-//       padding: 60px 30px 50px;
+//       padding: 60px 30px  50px;
 //     }
 
 //     @media #{$xs-device} {
@@ -627,7 +476,7 @@
 //     }
 //   }
 
-//   &-right {
+//   &-right{
 //     position: relative;
 //     padding: 110px 100px 0;
 
@@ -639,24 +488,25 @@
 //       padding: 50px 30px 0;
 //     }
 
-//     &--2 {
-//       &:before {
+//     &--2{
+//       &:before{
 //         @include overlay($white, 0.85);
 //       }
 //     }
 //   }
 // }
 
-// // Team Page
-// .team-page-area-wrapper {
-//   .team-mem-item {
+
+// Team Page
+// .team-page-area-wrapper{
+//   .team-mem-item{
 //     margin-top: 30px;
 //     transition: 0.4s;
 
-//     &:hover {
+//     &:hover{
 //       transform: translateY(-10px);
+      
 //     }
 //   }
 // }
-
 

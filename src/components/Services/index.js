@@ -1,7 +1,7 @@
 import React from 'react';
-import SectionTitle from '../UI/SectionTitle'
-import ServiceItem from  './ServiceItem'
-import ServicesData from '../../data/Services/services'
+import SectionTitle from '../UI/SectionTitle';
+import ServiceItem from  './ServiceItem';
+import ServicesData from '../../data/Services/services';
 
 import serviceTopBg from '../../assets/img/service/service-bg.jpg'
 
