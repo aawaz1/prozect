@@ -5,11 +5,9 @@ import aboutData2 from '../../../data/About/arabic-home-two.json'
 import aboutThumb from '../../../assets/img/AboutSecondSection.jpg'
 import {Link} from "react-router-dom";
 
-const About2 = () => {
-    const [about ,setAbout] = useState(aboutData1);
-    const handleLanguage = () => {
-        setAbout(  prevData => prevData == aboutData1 ? aboutData2  : aboutData1)
-    }
+const About2Arabic = () => {
+    const [about] = useState(aboutData2);
+   
     
     return (
         <div className="home-two-about-area" style={{backgroundImage:`url(${aboutThumb})`}}>
@@ -39,9 +37,8 @@ const About2 = () => {
                     </div>
                 </div>
             </div>
-            <button onClick={handleLanguage}>click here</button>
         </div>
     );
 };
 
-export default About2;
+export default About2Arabic;

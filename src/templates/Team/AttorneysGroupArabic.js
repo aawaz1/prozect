@@ -4,11 +4,11 @@ import team2 from '../../data/Team/AttorneysMemberArab.json'
 
 import AttorneysMember from "../../components/Team/home-one/AttorneysMember";
 
-const AttorneysGroup = () => {
-  const [team] = useState(team1)
-  // const changeLanguage = () => {
-  //   setTeam(prevData => prevData == team1 ? team2 : team1)
-  // }
+const AttorneysGroupArabic = () => {
+  const [team] = useState(team2)
+//   const changeLanguage = () => {
+//     setTeam(prevData => prevData == team1 ? team2 : team1)
+//   }
   return (
     <div className="team-page-area-wrapper bg-offwhite sp-y sm-top">
       <div className="container">
@@ -31,4 +31,4 @@ const AttorneysGroup = () => {
   );
 };
 
-export default AttorneysGroup;
+export default AttorneysGroupArabic;

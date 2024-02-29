@@ -1,0 +1,16 @@
+.button{
+   
+  
+    width: 10%;
+    background: #001;
+    color: wheat;
+    
+}
+
+.button  :hover{
+    background : wheat;
+}
+
+.div{
+    background-color: #000;
+}

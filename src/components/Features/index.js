@@ -1,6 +1,6 @@
 import React from 'react';
 import Feature from './FeatureItem'
-import FeaturesData from '../../data/Features/features'
+import FeaturesData from '../../data/Features/features.json'
 
 function Features({classes}) {
     return (

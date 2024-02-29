@@ -19,8 +19,11 @@ import Register from "../components/LoginRegister/Register";
 
 
 import { useState } from "react";
+import HomeOnechangeButton from "../components/changeButton/home-one-changeButton";
 
 const HomeOne = () => {
+
+
   // const [form,setForm] = useState('login');
 
   // const Comp = {
@@ -30,15 +33,17 @@ const HomeOne = () => {
 
   return (
     <Fragment>
+
       <Header />
-      <Slider />
-      <About />
+      <HomeOnechangeButton />
+      {/* <Slider  /> 
+      <About  />  */}
       <Features classes="sp-top" />
-      <Services classes="sm-top-wt" />
+      {/* <Services classes="sm-top-wt" /> */}
       {/* <Testimonials /> */}
-     
-      <Team />
-      <Blog />
+
+      {/* <Team /> */}
+      {/* <Blog /> */}
       {/* <BrandLogo/> */}
       <Funfact />
       <CallToAction />

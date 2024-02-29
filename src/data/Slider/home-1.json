@@ -14,6 +14,14 @@
     "bg": "slider/02.jpg",
     "btnText": "Learn More",
     "btnLink": "/about"
+  },
+  {
+    "id": 3,
+    "title": "ASK THE LAW",
+    "text": "",
+    "bg": "slider/01.jpg",
+    "btnText": "Learn More",
+    "btnLink": "/about"
   }
 ]
 

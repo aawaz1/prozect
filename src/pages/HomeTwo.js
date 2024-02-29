@@ -20,7 +20,7 @@ const HomeTwo = () => {
         <Fragment>
             <Header/>
             <Slider/>
-            <About/>
+            {/* <About/> */}
             <Services/>
             <Features classes="sp-top"/>
             <Testimonial/>

@@ -27,8 +27,8 @@ const PrevArrow = ({className, onClick}) => {
 //   "btnLink": "/about"
 // },
 
-const Slider = () => {
-    const [currentSliderData] = useState(SliderData1);
+const SliderArabic = () => {
+    const [currentSliderData] = useState(SliderData2);
     // const handleToggleSliderData = () => {
     //     // Toggle between the slider data sets
     //     setCurrentSliderData(prevData => prevData === SliderData1 ? SliderData2 : SliderData1);
@@ -89,4 +89,4 @@ const Slider = () => {
     }
 ;
 
-export default Slider;
+export default SliderArabic;

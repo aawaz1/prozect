@@ -8,7 +8,7 @@ import aboutData1 from '../../../data/About/home-one'
 
 const About = () => {
 
-    const [about] = useState(aboutData1);
+    const [about] = useState(aboutData2);
 
     // const handleLanguage = () => {
     //     // Toggle between the slider data sets
@@ -42,4 +42,3 @@ const About = () => {
 };
 
 export default About;
-

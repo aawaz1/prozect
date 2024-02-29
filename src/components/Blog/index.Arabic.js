@@ -3,7 +3,7 @@ import SectionTitle from "../UI/SectionTitle";
 import BlogItem from "./blogItem";
 
 import Blogs1 from '../../data/Blog/blog.json';
-
+import Blogs2 from  '../../data/Blog/blogArabic.json';
 import './blogs.css'
 
 // function Blog() {
@@ -45,9 +45,10 @@ import './blogs.css'
 
 // export default Blog;
 
-function Blog() {
-    const [blogs] = useState(Blogs1);
+function BlogArabic() {
+    const [blogs] = useState(Blogs2);
 
+  
 
     return (
         <div className="blog-area-wrapper sm-top">
@@ -68,15 +69,17 @@ function Blog() {
                             thumb={blog.thumb}
                             content={blog.content}
                             date={blog.publishDate}
-                            author={blog.author.name}  // Assuming you want to pass only the author's name
+                            author={blog.author.name}
+                          
+                             // Assuming you want to pass only the author's name
                         />
                     ))}
                 </div>
             </div>
-          
+            {/* <button onClick={handleToggleSliderData}>Click here</button> */}
         </div>
         
     );
 }
 
-export default Blog;
+export default BlogArabic;

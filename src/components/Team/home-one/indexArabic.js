@@ -8,9 +8,11 @@ import teamBg from "../../../assets/img/team/team-bg.jpg";
 import Teams1 from "../../../data/Team/home-one.json";
 import Teams2 from '../../../data/Team/home-one-arabic.json'
 
-function Team() {
-  const [teams] = useState(Teams1)
-
+function TeamArabic() {
+  const [teams] = useState(Teams2)
+//   const changeLanguage = () => {
+//     setTeams(prevData => prevData == Teams1 ? Teams2 : Teams1)
+//   }
   const settings = {
     slidesToShow: 4,
     slidesToScroll: 4,
@@ -59,7 +61,7 @@ function Team() {
           <div className="col-lg-8">
 
 
-            <div className="team1" id="team">
+            <div className="" id="team">
               {teams.slice(0, 4).map((team) => (
                 <div key={team.id}  >
                   <Member className="team"
@@ -77,9 +79,9 @@ function Team() {
           </div>
         </div>
       </div>
-
+   
     </div>
   );
 }
 
-export default Team;
+export default TeamArabic;

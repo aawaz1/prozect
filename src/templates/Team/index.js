@@ -1,5 +1,5 @@
 import React from "react";
-import teamData from "../../data/Team/home-one";
+import teamData from "../../data/Team/home-one.json";
 import TeamMember from "../../components/Team/home-one/Member";
 
 const TeamPage = () => {
